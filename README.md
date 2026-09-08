@@ -48,7 +48,7 @@ The Gold layer contains business-ready dimensional data optimized for analytics 
 - Delta Lake
 - Azure Data Lake Storage Gen2 (ADLS Gen2)
 - Unity Catalog
-- Lakeflow Declarative Pipelines
+- Spark Declarative Pipelines (SDP)
 - SCD Type 1
 - SCD Type 2
 - Change Data Capture (CDC)
